@@ -1,0 +1,23 @@
+{
+  "name": "@x-react-native/numeric-textinput-example",
+  "displayName": "NumericTextinput Example",
+  "expo": {
+    "name": "@x-react-native/numeric-textinput-example",
+    "slug": "x-react-native-numeric-textinput-example",
+    "description": "Example app for @x-react-native/numeric-textinput",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
